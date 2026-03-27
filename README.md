@@ -1,5 +1,5 @@
 # bioinformatics_NTTT
-**Bioinformatics Tools Setup, Environment Setup**
+# Bioinformatics Tools Setup, Environment Setup
 
 **Open Terminal in GitHub Codespaces:**
 

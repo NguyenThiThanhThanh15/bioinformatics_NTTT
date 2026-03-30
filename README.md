@@ -39,7 +39,7 @@ Run these commands once to set up the necessary channels for bioinformatics tool
 
 ## 1. Quality Control Tools (QC)
 
-- **Creates a new environment named qc_env**:
+- **Creates a new environment named QC**:
 
   ```conda create -n QC fastp fastqc -y```
 
